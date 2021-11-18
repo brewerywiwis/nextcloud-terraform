@@ -1,0 +1,12 @@
+region            = "af-south-1"
+availability_zone = "af-south-1a"
+ami               = "ami-0437191c133ea439a"
+bucket_name       = "nextcloud-s3-jetnipat-bucket-af"
+database_name     = "nextcloud"
+database_user     = "root"
+database_pass     = "root@nextcloud"
+admin_user        = "admin"
+admin_pass        = "admin@nextcloud"
+
+ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDOhCNb8geA5BWOE5UZawoctHlQ/B7w1ZbKqe/49lDqEepSW+qehUPOyMQFWR9DBtETcG2oDXRdWUJ2nWCgaFLW8oZKaCQmkEc8AD4AMWH8+nJK98Skpu7IPA3YTj17ZFMZYSdRWdT2yK/xM+hnpWtH1c6rkbq5Bxgj/3MYNlo72hMVF0cbDTvLciqYMtMbrUntKOcP34FoeNQvojPk5OMeWpAv4EM1faP+sVencY25lAkBog0XbGaNgstYFc8uXPzAfYI882b7aJtWgfLgoxLb49OEOMig4telQHYafehs96NheAOSi0pAmFeRqizV4qIRVoXNPnoZUfJJL09lcNFLMnt8GmNS1xAxv1HhjgG96pUgQ9RJicRjpBNVCPTMlK2lqWiL33ouoV6CY1vC1d/xRYVKDpWV4JbTLZpYghaf/aprhqlaf6C1GR43lRWWOosRXJ1MdOVt9d7YcKScX+VFteEFdI/s4q20i1yPyOUcQ/2CFj7T7+ycFz6BK/C68yk= brewerywiwis@Jetnipats-MacBook-Pro.local"
+

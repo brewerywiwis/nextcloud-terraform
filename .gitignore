@@ -1,0 +1,4 @@
+nextcloud
+nextcloud.pub
+terraform.tfvars
+*.terraform/
